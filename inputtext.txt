@@ -1,0 +1,1 @@
+How can I take a float variable, and control how far out the float goes without round()? For example.
